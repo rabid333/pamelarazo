@@ -6,17 +6,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
-    <title>Feliz San Valentín</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <title>Happy Valentines Day</title>
 </head>
 
 <body>
     <div class="valentines-day">
         <div class="envelope"></div>
         <div class="heart"></div>
-        <div class="text">HAPPY<br>VALENTINES DAY <3</div>
+        <div class="text">Happy<br>Valentines Day</div>
         <div class="front"></div>
     </div>
 
@@ -25,17 +23,26 @@
             <i class="fas fa-heart"></i>
         </div>
         <div class="side two">
-            <h2>🌷🌷🌷</h2>
-            <p>Dear Pamela Razo ,</p>
+            <h2>🤎🤎🤎</h2>
+            <p>Dear Pamela Razo,</p>
             <p>
-                hi mi niña, first of im really thankful for having you in my life. I know there is nobody else like you, you're one in a million. You're worth it all. I would do anything to make you happy and feel loved and cared for. Pense que la niña ideal no existia, but then I met you. We might be just friends right now but I hope maybe one day that changes and we can be more. Im so proud of you for everything you do. You're strong, independent and se que un dia vas a lograr all your goals and be the best interior designer. I'll be at your side I promise. For all the good and bad times I'll be there if you ever need anything. You're my CRUSH. hopefully one day I can call you my girlfriend.... I won't make this any longer, que tengas un lindo dia 🩷
+                hi mi niña, first of im really thankful for having you in my life. 
+                I know there is nobody else like you, you're one in a million. You're worth it all. 
+                I would do anything to make you happy and feel loved and cared for. 
+                Pense que la niña ideal no existia, but then I met you. 
+                We might be just friends right now but I hope maybe one day that changes and we can be more. 
+                Im so proud of you for everything you do. You're strong, independent and se que un dia vas a 
+                lograr all your goals and be the best interior designer. I'll be at your side I promise. 
+                For all the good and bad times I'll be there if you ever need anything. 
+                You're my CRUSH. hopefully one day I can call you my girlfriend.... 
+                I won't make this any longer, que tengas un lindo dia 🩷
             </p>
             <p>
-                ¡Feliz San Valentín!
+                happy valentines dayyyy <3
             </p>
             <p>
-                Con cariño,<br>
-                [nombre]
+                from,<br>
+                J.
             </p>
         </div>
     </div>
