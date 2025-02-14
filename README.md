@@ -31,11 +31,11 @@
                 hi mi niña, first of im really thankful for having you in my life. I know there is nobody else like you, you're one in a million. You're worth it all. I would do anything to make you happy and feel loved and cared for. Pense que la niña ideal no existia, but then I met you. We might be just friends right now but I hope maybe one day that changes and we can be more. Im so proud of you for everything you do. You're strong, independent and se que un dia vas a lograr all your goals and be the best interior designer. I'll be at your side I promise. For all the good and bad times I'll be there if you ever need anything. You're my CRUSH. hopefully one day I can call you my girlfriend.... I won't make this any longer, que tengas un lindo dia 🩷
             </p>
             <p>
-                ¡Feliz San Valentín!
+                happy valentines day <3
             </p>
             <p>
-                Con cariño,<br>
-                [nombre]
+                con cariño
+                Julio
             </p>
         </div>
     </div>
